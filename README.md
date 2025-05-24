@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Computer Engineering student at Queen's University with a passion for innovative technology and I love solving real-world problems with code. In my free time, I enjoy playing badminton, travelling, and doing the NYT Wordle.</p>
+<p align="left">I'm a Computer Engineering student at Queen's University with a passion for innovative technology and love solving real-world problems with code. In my free time, I enjoy playing badminton, travelling, and doing the NYT Wordle.</p>
 
 ###
 
