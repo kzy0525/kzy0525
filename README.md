@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">LinkedIn: https://www.linkedin.com/in/kevinye0525/<br>Email: ye.kevin@queensu.ca<br>Personal Website: https://kevinye.vercel.app/#</p>
+<p align="left">LinkedIn: https://www.linkedin.com/in/kevinye0525/<br>Email: ye.kevin@queensu.ca<br>Personal Website: kevinzye.ca#</p>
 
 ###
 
